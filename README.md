@@ -45,7 +45,7 @@ object **RUBENS OLIVEIRA** {
 </a>
 
 
-#### You can get in touch with me through:
+## You can connect with me through:
 
 [![Linkedin: Rubens Oliveira](https://img.shields.io/badge/-Rubens_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-rubensoliveira/)](https://www.linkedin.com/in/dev-rubensoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-rubensoliveira.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubensoliveira.dev@gmail.com)](mailto:rubensoliveira.dev@gmail.com)
